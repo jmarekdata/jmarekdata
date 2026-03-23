@@ -1,4 +1,4 @@
-# Hi there, I'm [Twoje Imię]! 👋
+# Hi there, I'm Jakub! 👋
 
 ### 👨‍💻 From Data Analyst to Data Engineer
 I am a Data Analyst with a strong foundation in SQL and Python, currently pivoting towards **Data Engineering**. I love transforming raw, messy data into clean, reliable, and scalable pipelines.
@@ -19,4 +19,4 @@ I am a Data Analyst with a strong foundation in SQL and Python, currently pivoti
 - [ ] Workflow Orchestration (Airflow)
 
 ---
-📫 **How to reach me:** [Link do Twojego LinkedIna]
+📫 **How to reach me:** https://www.linkedin.com/in/jakub-marek-733709291/
