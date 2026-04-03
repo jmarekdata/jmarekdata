@@ -12,7 +12,7 @@ I am a Data Analyst with a strong foundation in SQL and Python, currently pivoti
 * **Data Engineering (Learning):** Airflow, dbt, Docker
 
 ### 🎯 My Roadmap to Data Engineering
-- [x] Advanced SQL (Aggregations, Window Functions, CTEs)
+- [ ] Advanced SQL (Aggregations, Window Functions, CTEs)
 - [ ] Python for Data Pipelines 
 - [ ] Cloud Infrastructure basics
 - [ ] Workflow Orchestration 
