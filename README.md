@@ -1,7 +1,7 @@
 # Hi there, I'm Jakub! 👋
 
 ### 👨‍💻 From Data Analyst to Data Engineer ### 
-I am a Data Analyst with a strong foundation in SQL and Python, currently pivoting towards **Data Engineering**. I love transforming raw, messy data into clean, reliable, and scalable pipelines.
+I am a Data Analyst with a strong foundation in SQL , currently pivoting towards **Data Engineering**. I love transforming raw, messy data into clean, reliable, and scalable pipelines.
 
 - 🔭 **Current Focus:** Leveling up my SQL skills and learning Cloud Data Warehousing.
 - 🏗️ **Building:** I'm documenting my transition by solving complex data challenges in my `lemur_data` repository.
